@@ -1,4 +1,4 @@
-# Python 3 (básico ao avançado)
+# Curso Python 3
 
 ![Static Badge](https://img.shields.io/badge/made_by-alemobn-0D0C0C)
 ![Static Badge](https://img.shields.io/badge/license-MIT-0D0C0C)
