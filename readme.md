@@ -20,7 +20,7 @@
 
 ## Descrição
 
-Repositório de estudos, onde armazeno todos os códigos das aulas do curso de **Python 3** do básico ao avançado, do professor **Luiz Otávio Miranda**.
+Repositório de estudos, onde armazeno todos os códigos das aulas do curso de **Python 3 do básico ao avançado**, do professor Luiz Otávio Miranda.
 
 [Acesse o curso aqui](https://www.udemy.com/course/python-3-do-zero-ao-avancado/learn/lecture/34540690#overview)
 
