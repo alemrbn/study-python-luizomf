@@ -1,10 +1,4 @@
 # Curso Python 3
-
-![Static Badge](https://img.shields.io/badge/made_by-alemobn-0D0C0C)
-![Static Badge](https://img.shields.io/badge/license-MIT-0D0C0C)
-
-⭐ Curso de Python!
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -16,15 +10,8 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
----
-
 ## Descrição
-
-Repositório de estudos, onde armazeno todos os códigos das aulas do curso de **Python 3 do básico ao avançado**, do professor Luiz Otávio Miranda.
-
-[Acesse o curso aqui](https://www.udemy.com/course/python-3-do-zero-ao-avancado/learn/lecture/34540690#overview)
-
----
+Repositório base de estudos, onde armazeno todos os códigos das aulas do curso [Python 3 do básico ao avançado](https://www.udemy.com/course/python-3-do-zero-ao-avancado/learn/lecture/34540690#overview), do professor Luiz Otávio Miranda.
 
 ### Conteúdo abordado
 
