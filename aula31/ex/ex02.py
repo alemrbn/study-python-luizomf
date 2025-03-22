@@ -13,6 +13,6 @@ def greeting():
     else:
       print('Hora inválida!')
 
-  else: 
+  else:
     print('Digite apenas números!')
     return
